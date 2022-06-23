@@ -1,0 +1,45 @@
+.inputs {
+  padding-top: 25px;
+  width: 800px;
+  padding-left: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: aqua;
+  border-radius: 15px;
+  padding-bottom: 25px;
+}
+#timer1 {
+  padding: 5px;
+  font-size: 30px;
+}
+#timer2 {
+  padding: 5px;
+  font-size: 30px;
+}
+#swpbtn {
+  font-size: 30px;
+  padding: 5px;
+}
+#srtbtn {
+  font-size: 30px;
+  padding: 5px;
+}
+#resbtn {
+  font-size: 30px;
+  padding: 5px;
+}
+.button1 {
+  text-align: center;
+  padding-top: 20px;
+  padding-right: 30px;
+}
+.button23 {
+  text-align: center;
+  padding-top: 20px;
+  padding-right: 30px;
+}
+.watch h1 {
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 50px;
+}
